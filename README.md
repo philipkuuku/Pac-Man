@@ -64,7 +64,6 @@ Direction changes are applied on **key release** and only take effect if the new
 ## Known Limitations / Possible Improvements
 
 - Ghost AI is fully random — no pathfinding or chase behavior toward Pac-Man.
-- No win condition when all food is eaten.
 - No pause/restart controls once the game ends.
 - Movement direction updates on key release rather than key press, which can feel slightly less responsive than classic Pac-Man controls.
 
